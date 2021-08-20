@@ -1,0 +1,12 @@
+CalculatorSoap12\Add.xml
+CalculatorSoap12\Divide.xml
+CalculatorSoap12\Multiply.xml
+CalculatorSoap12\Subtract.xml
+CalculatorSoap\Add.xml
+CalculatorSoap\Divide.xml
+CalculatorSoap\Multiply.xml
+CalculatorSoap\Subtract.xml
+CalculatorSoap12-Test-Suite\Add-Test-Case.xml
+CalculatorSoap12-Test-Suite\Divide-Test-Case.xml
+CalculatorSoap12-Test-Suite\Multiply-Test-Case.xml
+CalculatorSoap12-Test-Suite\Subtract-Test-Case.xml
